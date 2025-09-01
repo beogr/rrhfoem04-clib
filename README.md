@@ -5,3 +5,4 @@ THIS PROJECT STILL DIDNT IMPLEMENT ALL THE FUNCTIONS THAT RRHFOEM04 DOCUMENTATIO
 
 I provided the protocol pdf file with the library, if you want to add features, then check it out
 
+and yes, its meant for linux only but if you make it for windows, i dont care. i really do not care. i seriously do not care. i really do not care. that hits zero on my caring scale. my priority matrix excludes this information. i genuinely do not care. i actually do not care.
